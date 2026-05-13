@@ -1,0 +1,37 @@
+🔌 MCP & Subagent Requirements
+В проекте:
+каждая роль (backend developer и frontend developer) должна использовать минимум 1 MCP или sub-agent
+минимум 2 MCP / sub-agent на команду( если вас 2 человека )
+AI должен реально использовать внешний контекст
+Примеры MCP / sub-agent:
+Context7 MCP
+Playwright MCP
+Pupeteer MCP
+Code-analysis sub-agent
+
+
+создай frontend_ZhannaNurgaliyeva.md
+внутри сделай описание по структуре ниже
+# Role
+(Frontend)
+# System Rules
+- Роль AI
+- Ограничения
+- Чего делать нельзя
+- Формат ответов
+# MCP & Tools
+- Какие MCP подключены
+- Какие tools может вызывать AI
+# Subagents (если есть)
+- Назначение
+- Когда вызываются
+# Output Contracts
+- JSON / SQL / JSX / Tests
+
+ создай backend_ZhannaNurgaliyeva.md опиши по такой же структуре
+ 
+ запуск из командной строки
+ 
+ py -m uvicorn main:app --reload --port 8000
+ 
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; npm run dev

@@ -1,0 +1,137 @@
+[
+  {
+    "university": "Massachusetts Institute of Technology",
+    "country": "USA",
+    "specialties": ["Computer Science", "Engineering", "Artificial Intelligence", "Physics", "Mathematics"],
+    "acceptance_rate": "~4%",
+    "application_deadline": "1 января (Early Action: 1 ноября)",
+    "scholarships": ["MIT Need-Based Aid", "EECS Research Fellowship", "SuperUROP"],
+    "tags": ["research", "stem", "top5", "silicon-valley", "ai-hub"]
+  },
+  {
+    "university": "Stanford University",
+    "country": "USA",
+    "specialties": ["Computer Science", "Business", "Artificial Intelligence", "Engineering", "Medicine"],
+    "acceptance_rate": "~3.7%",
+    "application_deadline": "1 января (Restrictive Early Action: 1 ноября)",
+    "scholarships": ["Stanford Knight-Hennessy Scholars", "Stanford GSB Fellowship", "DARE Fellowship"],
+    "tags": ["entrepreneurship", "silicon-valley", "top5", "ai-hub", "startup"]
+  },
+  {
+    "university": "University of Oxford",
+    "country": "UK",
+    "specialties": ["Law", "Medicine", "Humanities", "Economics", "Physics"],
+    "acceptance_rate": "~17%",
+    "application_deadline": "15 октября (UCAS)",
+    "scholarships": ["Clarendon Scholarship", "Rhodes Scholarship", "Oxford-Weidenfeld Scholarship"],
+    "tags": ["ancient", "tutorial-system", "humanities", "top5", "europe"]
+  },
+  {
+    "university": "University of Cambridge",
+    "country": "UK",
+    "specialties": ["Mathematics", "Physics", "Computer Science", "Engineering", "Medicine"],
+    "acceptance_rate": "~21%",
+    "application_deadline": "15 октября (UCAS)",
+    "scholarships": ["Cambridge Trust Scholarship", "Gates Cambridge Scholarship", "Harding Distinguished Postgraduate Scholars"],
+    "tags": ["ancient", "tutorial-system", "sciences", "top5", "europe"]
+  },
+  {
+    "university": "ETH Zurich",
+    "country": "Switzerland",
+    "specialties": ["Engineering", "Computer Science", "Mathematics", "Physics", "Architecture"],
+    "acceptance_rate": "~27% (бакалавриат)",
+    "application_deadline": "15 декабря (зимний семестр)",
+    "scholarships": ["ETH Excellence Scholarship", "ESOP Scholarship", "Swiss Government Excellence Scholarship"],
+    "tags": ["affordable", "europe", "stem", "no-tuition", "top10"]
+  },
+  {
+    "university": "National University of Singapore",
+    "country": "Singapore",
+    "specialties": ["Business", "Engineering", "Computer Science", "Medicine", "Law"],
+    "acceptance_rate": "~5%",
+    "application_deadline": "15 марта (международные студенты)",
+    "scholarships": ["NUS Science & Technology Scholarship", "ASEAN Undergraduate Scholarship", "NUS Merit Scholarship"],
+    "tags": ["asia", "top10", "english", "business-hub", "multicultural"]
+  },
+  {
+    "university": "University of Toronto",
+    "country": "Canada",
+    "specialties": ["Medicine", "Engineering", "Computer Science", "Business", "Artificial Intelligence"],
+    "acceptance_rate": "~43%",
+    "application_deadline": "15 января (Ontario universities)",
+    "scholarships": ["Lester B. Pearson International Scholarship", "President's Scholars of Excellence", "University of Toronto Scholars"],
+    "tags": ["canada", "research", "ai-hub", "diverse", "top20"]
+  },
+  {
+    "university": "Peking University",
+    "country": "China",
+    "specialties": ["Computer Science", "Engineering", "Mathematics", "Economics", "Humanities"],
+    "acceptance_rate": "~15% (иностранные студенты)",
+    "application_deadline": "31 марта",
+    "scholarships": ["Chinese Government Scholarship (CSC)", "Peking University Scholarship", "Belt and Road Scholarship"],
+    "tags": ["china", "top15", "asia", "mandarin", "research"]
+  },
+  {
+    "university": "University of Melbourne",
+    "country": "Australia",
+    "specialties": ["Business", "Medicine", "Arts", "Engineering", "Law"],
+    "acceptance_rate": "~70% (undergraduate)",
+    "application_deadline": "31 октября",
+    "scholarships": ["Melbourne International Undergraduate Scholarship", "Graduate Research Scholarships", "Equity Scholarship"],
+    "tags": ["australia", "top35", "english", "research", "diverse"]
+  },
+  {
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "specialties": ["Engineering", "Computer Science", "Mathematics", "Business", "Physics"],
+    "acceptance_rate": "~30%",
+    "application_deadline": "31 мая (летний семестр), 15 января (зимний)",
+    "scholarships": ["DAAD Scholarship", "Deutschland Stipendium", "TUM Graduate School Fellowship"],
+    "tags": ["germany", "free-tuition", "europe", "engineering", "industry-links"]
+  },
+  {
+    "university": "Sorbonne University",
+    "country": "France",
+    "specialties": ["Humanities", "Arts", "Medicine", "Law", "Mathematics"],
+    "acceptance_rate": "~40%",
+    "application_deadline": "1 марта (Parcoursup для бакалавриата)",
+    "scholarships": ["Bourse Eiffel", "Campus France Scholarship", "Ile-de-France Regional Scholarship"],
+    "tags": ["france", "europe", "humanities", "arts", "affordable", "paris"]
+  },
+  {
+    "university": "University of Tokyo",
+    "country": "Japan",
+    "specialties": ["Engineering", "Medicine", "Computer Science", "Economics", "Humanities"],
+    "acceptance_rate": "~30%",
+    "application_deadline": "Декабрь–январь (PEAK программа)",
+    "scholarships": ["MEXT Scholarship", "JASSO Scholarship", "UTokyo Fellowship"],
+    "tags": ["japan", "asia", "top30", "research", "technology"]
+  },
+  {
+    "university": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "specialties": ["Mathematics", "Physics", "Humanities", "Law", "Economics"],
+    "acceptance_rate": "~25%",
+    "application_deadline": "20 июля (по ЕГЭ)",
+    "scholarships": ["Стипендия Президента РФ", "Именные стипендии МГУ", "Стипендия Правительства РФ для иностранцев"],
+    "tags": ["russia", "fundamental-science", "mathematics", "historic", "affordable"]
+  },
+  {
+    "university": "HSE University",
+    "country": "Russia",
+    "specialties": ["Economics", "Computer Science", "Business", "Law", "Mathematics"],
+    "acceptance_rate": "~35%",
+    "application_deadline": "20 июля",
+    "scholarships": ["Стипендия НИУ ВШЭ", "Стипендия имени Ясина", "Программа двойных дипломов (стипендии партнёров)"],
+    "tags": ["russia", "economics", "modern", "english-programs", "international"]
+  },
+  {
+    "university": "ITMO University",
+    "country": "Russia",
+    "specialties": ["Computer Science", "Artificial Intelligence", "Engineering", "Mathematics", "Physics"],
+    "acceptance_rate": "~40%",
+    "application_deadline": "20 июля (по ЕГЭ / олимпиадам)",
+    "scholarships": ["Стипендия ИТМО", "Стипендия за победу в ICPC", "Программа Russian Government Scholarship"],
+    "tags": ["russia", "programming", "icpc-champion", "it", "spb", "competitive-programming"]
+  }
+]
